@@ -80,7 +80,7 @@ print(sayilar)
 sayilar["tek"]="1,3,5,7,9" # sayilar["tek"].append(tek sayilari tek tek ekle) #
 sayilar["cift"]="2,4,6,8,10" #sayilar['cift].append(cift sayilari tek tek ekle) yani value tipi neyse ona gore islemleri ayarla.yani listeyse listeye gore ,string ise stringe gore islemler yapilir
 print(sayilar)   
-print(sayilar["tek"])
+print(sayilar["tek"]) #git huba ekle
 
 
 
