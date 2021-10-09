@@ -33,6 +33,7 @@
 #        x=int(input("aklimdaki sayiyi tahmin et:"))
  #       break
 
+#hangi cumle uzun
 texta=input("write a short sentence1: ")
 textb=input("write a short sentence2: ")
 
