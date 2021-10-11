@@ -4,7 +4,7 @@
 #    print("i love you")
 
 
-#########carpim tablosu
+carpim tablosu
 
  #a=int(input("1-10 arasi sayi gir ve carpim tablosunu gor: "))
 

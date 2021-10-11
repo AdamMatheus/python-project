@@ -12,14 +12,14 @@ print(list(family.items()),"\n")
 print(list(family.keys()),"\n")
 print(list(family.values()),"\n")
 
-#UPDATE YAPMA
+##UPDATE YAPMA
 
 sozluk=dict(animal="dog",planet="saturn",number="35",pi="3.14",is_good=True)
 sozluk.update({"is_bad":False,3:"uc"})
 
 print(sozluk)
 
-#DEL
+DEL
 
 sozluk=dict(animal="dog",planet="saturn",number="35",pi="3.14",is_good=True)
 

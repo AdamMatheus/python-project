@@ -16,7 +16,7 @@
 #print(("En cok tekrarlayan sayi {} sayisidir ve {} defa tekrar etmistir.".format(aw,bw)))
 
 # verilen bir kelimenin comfortable word olup olmadigini bulma
-#kullanilacak metod (word\left) ve (word\right) bos kume olmamasi gerek
+kullanilacak metod (word\left) ve (word\right) bos kume olmamasi gerek
 
 left={'q', 'w', 'e', 'r', 't', 'a', 's', 'd', 'f', 'g', 'z', 'x', 'c', 'v', 'b'}
 right={'y', 'u', 'i', 'o', 'p', 'h', 'j', 'k', 'l', 'n', 'm'}

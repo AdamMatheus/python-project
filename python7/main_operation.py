@@ -15,7 +15,7 @@ print(a|b)
 print(a.union(b))
 print(a|b==b|a) 
 
-#intersection  of sets  a&b yada a.intersection(b)
+intersection  of sets  a&b yada a.intersection(b)
 
 print(a&b)
 print(a.intersection(b))
