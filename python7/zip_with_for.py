@@ -13,4 +13,4 @@ for i in range(10):
         cift.append(i)
     else:
         tek.append(i)
-print("tek sayilar:{}\n ciftsayilar:{}".format(tek,cift))
+print("tek sayilar:{}\n ciftsayilar:{}".format(tek,cift));
