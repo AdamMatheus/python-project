@@ -11,7 +11,7 @@
 
 # first_ten=["a",'b','c','d','e','f','g','h','i','j','u']
 # vowels=["a","e","i","o","u"]
- print(list(filter(lambda x:x in vowels,first_ten)))
+#print(list(filter(lambda x:x in vowels,first_ten)))
 
 
 com=["rihgt 20","right 30","left 50","up 10","down 20"]
@@ -21,4 +21,4 @@ for i in range(len(com)):
     elif com[i].startswith("l"):x=x-int(com[i].split()[1])
     elif com[i].startswith("u"):y=y+int(com[i].split()[1])
     elif com[i].startswith("d"):y=y-int(com[i].split()[1])
-print([x,y]);
+print([x,y])
