@@ -6,4 +6,4 @@ print(tersyaz('Hayirli Cumalar'))
 # "".join(reversed("Python"))
 
 # s = 'you shall not pass'
-# r = ' '.join(reversed(s.split(' ')))
+r = ' '.join(reversed(s.split(' ')))
