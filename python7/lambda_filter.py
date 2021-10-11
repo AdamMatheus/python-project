@@ -21,4 +21,4 @@ for i in range(len(com)):
     elif com[i].startswith("l"):x=x-int(com[i].split()[1])
     elif com[i].startswith("u"):y=y+int(com[i].split()[1])
     elif com[i].startswith("d"):y=y-int(com[i].split()[1])
-print([x,y])
+print([x,y]);
