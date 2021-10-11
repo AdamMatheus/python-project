@@ -15,7 +15,7 @@
 ##########
 # sayi=[1,2,3,4] 
 # for x in sayi:
-     print(x, ":",(lambda x: "odd"  if  x%2!=0 else "even")(x))
+print(x, ":",(lambda x: "odd"  if  x%2!=0 else "even")(x))
 
 
 
