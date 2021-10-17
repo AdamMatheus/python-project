@@ -30,6 +30,7 @@
 # a,b,c,d=x()
 # print(a)
 
+
 from typing import Counter
 
 
@@ -53,7 +54,7 @@ from typing import Counter
 def functgener(function):
     return lambda x:function(x)
 print(print("sen"))
-print(max([2,3,5]))
+print(max([2,3,7]))
 print(bool("hey"))
 
 
