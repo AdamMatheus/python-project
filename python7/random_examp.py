@@ -64,5 +64,5 @@ message="\n This is my test mail .\n havegood day"
 adres="halimelihalimeli@gmail.com"
 
 server.sendmail("mathvirus03",adres,message)
-server.quit()
+server.quit();
 
